@@ -1,0 +1,11 @@
+program
+(
+    let ([x (read)]) 
+    (
+        + 
+        (- x) 
+        (
+            let ([x 10]) x
+        )
+    )
+) 
