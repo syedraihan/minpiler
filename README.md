@@ -1,4 +1,4 @@
-# README #
+# minpiler #
 
 A minimum implementation of Racket to x86-64 assembly compiler. 
 Based on techniques described in the book "Essentials of Compilation" by Jeremy Siek. 
